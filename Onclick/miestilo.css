@@ -1,0 +1,137 @@
+ */{
+
+    outline: red solid 1px;
+}
+
+.row {
+
+    background-color: #c5bebe;
+}
+
+.titulo {
+
+    font-size: 30px
+}
+
+.col-7 {
+
+    margin-top: 10px;
+}
+
+.col-7 input[type="text"] {
+
+    width: 80%;
+}
+
+.col-2 {
+
+    margin-top: 10px;
+}
+
+.col-2 button {
+
+    background-color: #1e90ff;
+    color: #ffffff;
+}
+
+.gato {
+
+    width: 60%;
+    height: 34%;
+    margin-top: 10px;
+    margin-left: -13px;
+    position: absolute;
+    border: gray solid 2px;
+}
+
+.text-gato {
+
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.sustantivo {
+
+    margin-left: 10px;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.plural {
+
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.descripcion {
+
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.like {
+
+    margin-left: 10px;
+    font-size: 10px;
+    background-color: #ffffcc;
+    border: gray solid 2px;
+}
+
+.golden {
+
+    width: 60%;
+    height: 34%;
+    margin-top: 250px;
+    margin-left: -13px;
+    position: absolute;
+    border: gray solid 2px;
+}
+
+.text-golden {
+
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.like2 {
+
+    margin-left: 10px;
+    font-size: 10px;
+    background-color: #ffffcc;
+    border: gray solid 2px;
+}
+
+.faltante {
+
+    width: 28%;
+    height: 15%;
+    margin-top: 10px;
+    margin-left: 60%;
+    position: absolute;
+    border: gray solid 2px;
+}
+
+.petlopedia {
+
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.agregar {
+
+    width: 80%;
+    
+    margin-top: -5px;
+    margin-left: 10px;
+    background-color: #008000;
+    color: #ffffff;
+}
+
+.agregar button {
+
+    background-color: #008000;
+}
