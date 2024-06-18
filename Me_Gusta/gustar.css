@@ -1,0 +1,79 @@
+.top {
+
+    height: 100%;
+    width: 80%;
+    background-color: #333333;
+    color: #f5f5f5;
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 30px;
+    padding: 10px;
+}
+
+.feed {
+
+    color: black;
+    margin-left: 20%;
+}
+
+.foto {
+
+    height: 10%;
+    width: 16%;
+    margin-left: 15px;
+}
+
+.bloquelinn {
+
+    height: 100%;
+    width: 62%;
+    background-color: #f5f5f5;
+    border: 2px solid black;
+    margin-left: 18%;
+    margin-top: -250px;
+}
+
+.parrafo {
+
+    margin-left: 10px;
+}
+
+.numeros {
+
+    position: absolute;
+    margin-left: 42%;
+    margin-top: -80px;
+}
+
+.like {
+    
+    position: absolute;
+    width: 60px;
+    margin-left: 47%;
+    margin-top: -80px;
+    font-size: 15px;
+    background-color: #ffd700;
+}
+
+.bloquelina {
+
+    height: 100%;
+    width: 62%;
+    background-color: #f5f5f5;
+    border: 2px solid black;
+    margin-left: 18%;
+    margin-top: 15px;
+}
+
+.bloquemateo {
+
+    height: 100%;
+    width: 62%;
+    background-color: #f5f5f5;
+    border: 2px solid black;
+    margin-left: 18%;
+    margin-top: 15px;
+}
